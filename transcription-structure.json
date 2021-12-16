@@ -1,0 +1,122 @@
+{
+    "jobName": "transcription-82fd37624e51430aa39437e64c34e9af",
+    "accountId": "833860111962",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "mm."
+            }
+        ],
+        "channel_labels": {
+            "channels": [
+                {
+                    "channel_label": "ch_0",
+                    "items": []
+                },
+                {
+                    "channel_label": "ch_1",
+                    "items": [
+                        {
+                            "start_time": "0.51",
+                            "end_time": "0.99",
+                            "alternatives": [
+                                {
+                                    "confidence": "0.9891",
+                                    "content": "mm"
+                                }
+                            ],
+                            "type": "pronunciation"
+                        },
+                        {
+                            "alternatives": [
+                                {
+                                    "confidence": "0.0",
+                                    "content": "."
+                                }
+                            ],
+                            "type": "punctuation"
+                        }
+                    ]
+                }
+            ],
+            "number_of_channels": 2
+        },
+        "items": [
+            {
+                "start_time": "0.51",
+                "end_time": "0.99",
+                "alternatives": [
+                    {
+                        "confidence": "0.9891",
+                        "content": "mm"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ],
+        "segments": [
+            {
+                "start_time": "0.0",
+                "end_time": "1.0",
+                "alternatives": [
+                    {
+                        "transcript": "mm.",
+                        "items": [
+                            {
+                                "start_time": "0.51",
+                                "confidence": "0.9891",
+                                "end_time": "0.99",
+                                "type": "pronunciation",
+                                "content": "mm"
+                            },
+                            {
+                                "confidence": "0.0",
+                                "type": "punctuation",
+                                "content": "."
+                            }
+                        ]
+                    },
+                    {
+                        "transcript": "mm. Hm.",
+                        "items": [
+                            {
+                                "start_time": "0.51",
+                                "confidence": "0.9891",
+                                "end_time": "0.93",
+                                "type": "pronunciation",
+                                "content": "mm"
+                            },
+                            {
+                                "confidence": "0.0",
+                                "type": "punctuation",
+                                "content": "."
+                            },
+                            {
+                                "start_time": "0.94",
+                                "confidence": "0.0112",
+                                "end_time": "0.99",
+                                "type": "pronunciation",
+                                "content": "Hm"
+                            },
+                            {
+                                "confidence": "0.0",
+                                "type": "punctuation",
+                                "content": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}
