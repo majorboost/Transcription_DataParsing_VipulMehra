@@ -115,6 +115,6 @@ class AwsTranscriptionProcessor:
         This function generates CSV from dataframe
         :param df: dataframe
         :param filename: name of the CSV file to output
-        :return: CSV
+        :return: void
         """
         df.to_csv(filename, encoding='utf-8', index=False)
