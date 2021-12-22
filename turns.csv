@@ -1,1 +1,240 @@
-﻿Participant,Transcription,Start time,End time,Duration,Confidence
+Participant,Transcription,Start time,End time,Duration,Confidence
+Payer,"Welcome to the blue cross blue shield member services line. Para espanol Marcus,",3.65,9.62,5.969999999999999,0.81972
+Provider,okay,11.21,12.16,0.9499999999999993,0.9965
+Payer,are you calling as a member or a health care professional or are you a broker?,12.55,17.67,5.120000000000001,0.8882294117647058
+Provider,Healthcare Professional.,16.8,18.26,1.4600000000000009,0.5436333333333333
+Payer,Welcome to the blue cross blue shield of Illinois provider services line. Please listen carefully as our menus have changed,20.95,27.83,6.879999999999999,0.9486190476190475
+Payer,"to direct your call, please say medical pharmacy, dental or",28.73,34.25,5.52,0.83325
+Provider,Medical,33.24,34.2,0.9600000000000009,1.0
+Payer,in order to get eligibility or benefits will need your rendering N. P. I. Or HMO site number for claims or any other inquiries will need your billing N. P. I.,37.58,49.92,12.340000000000003,0.8214
+Payer,Now what is your 10 digit N. P. I. Or HMO site number?,50.12,55.23,5.109999999999999,0.7300058823529412
+N.A.,1230 456789,58.23,62.89,4.660000000000004,1.0
+Payer,"Thanks. I'll just look that up,",63.89,65.7,1.8100000000000023,0.75
+Payer,which can I help you with eligibility and benefits claims?,66.5,70.68,4.180000000000007,0.9088727272727272
+Provider,benefits.,69.69,71.0,1.3100000000000023,0.49995
+Payer,Okay eligibility and benefits,72.44,74.66,2.219999999999999,0.9915499999999999
+Payer,Excluding the three character prefix? What's the subscribers? i. d.,74.88,79.41,4.530000000000001,0.6485357142857142
+N.A.,123456789.,79.33,83.76,4.430000000000007,0.5
+N.A.,"That's 123456789, is that correct?",87.09,95.38,8.289999999999992,0.6977000000000001
+Provider,Yes,95.26,96.34,1.0799999999999983,1.0
+Payer,Sorry I didn't hear you to subscribe,102.36,104.72,2.3599999999999994,0.9627
+Provider,yes.,103.62,104.33,0.7099999999999937,0.5
+Payer,and what's the patient's date of birth?,106.04,108.4,2.3599999999999994,0.824275
+Provider,February 22 2001,108.23,111.22,2.989999999999995,0.9998888888888889
+Payer,"Please be advised that a quote of eligibility and benefits is not a guarantee of payment. All benefit payments are subject to eligibility, medical necessity and the terms conditions, limitations, exclusions and payment levels of the patient's health benefit plan at the time the services are rendered",114.56,134.48,19.919999999999987,0.9189882352941177
+Payer,"benefit payments are usually not determined based on billed charges and might be significantly less than billed charges. Please note, newborn dependence not listed on the membership file may have benefits available.",134.87,149.14,14.269999999999982,0.8651228571428571
+Payer,"This patient's covered under a PPO plus plan coverage began. April 1st 2021 to current,",149.84,158.13,8.289999999999992,0.8536352941176472
+Payer,"this patient is not subject to pre existing, the three character prefixes X O. F.",158.52,165.19,6.6699999999999875,0.7781055555555556
+N.A.,And the group number is p. 1234.,165.48,170.96,5.480000000000018,0.7407407407407408
+Payer,This quote has been saved to a file and your confirmation number is 1076873435.,173.45,185.36,11.910000000000025,0.9333333333333333
+Payer,Now you can say repeat that or benefit details.,186.26,190.47,4.210000000000008,0.89977
+Provider,benefit details.,190.43,191.7,1.2699999999999818,0.6566666666666667
+Payer,"You cannot,",190.71,191.42,0.7099999999999795,0.5674666666666667
+Payer,"I have you as a chiropractor specializing in chiropractic and you are in network,",193.31,200.36,7.050000000000011,0.9252866666666667
+Payer,is that right?,200.61,201.72,1.1099999999999852,0.75
+Provider,Yes.,202.04,203.05,1.0100000000000193,0.5
+Payer,Tell me a service for example office visit.,204.21,207.38,3.1699999999999875,0.8883777777777778
+Provider,"Chiropractic services,",206.34,207.91,1.5699999999999932,0.6666333333333333
+Payer,Okay chiropractic services? Where is the service being ready?,209.5,213.18,3.680000000000007,0.7443545454545455
+Provider,"office,",212.1,213.24,1.1400000000000148,0.5
+Payer,The benefits for chiropractic services,215.66,218.49,2.8300000000000125,0.9995
+Provider,office,218.78,219.62,0.8400000000000034,1.0
+Payer,are as follows,219.99,221.3,1.3100000000000023,0.9064333333333333
+Payer,"muscle manipulation,",222.56,224.18,1.6200000000000045,0.6578666666666667
+Payer,habilitated muscle manipulation.,224.95,227.22,2.2700000000000102,0.724475
+Payer,"There is no copay,",227.95,229.54,1.5900000000000034,0.79886
+Payer,"There is an individual deductible of $2,500 per calendar year.",230.23,236.23,6.0,0.9090818181818182
+Payer,Services are payable at 80% of the allowed amount.,237.48,241.56,4.0800000000000125,0.89911
+Payer,The calendar year out of pocket for an individual is $4500,241.85,247.65,5.800000000000011,0.9996090909090909
+Payer,and includes copay.,247.86,249.69,1.829999999999984,0.729275
+Payer,"There is an individual maximum of 30 days per calendar year, this maximum is combined with services rendered for muscle manipulation and",250.37,261.07,10.699999999999989,0.9544521739130435
+Payer,habilitated muscle manipulation,261.36,263.64,2.2799999999999727,0.9649333333333333
+Payer,and the lifetime maximum is unlimited.,266.11,268.86,2.75,0.8570857142857143
+Payer,You will need to speak to a customer advocate for any accumulated information such as deductible or out of pocket. Maximum amounts met to date,269.1,278.24,9.139999999999986,0.9576730769230769
+Payer,office visit,279.37,280.56,1.1899999999999977,1.0
+Payer,x rays,280.89,282.01,1.1200000000000045,0.9794499999999999
+Payer,"orthotics,",282.36,283.58,1.2199999999999704,0.47415
+Payer,"The Copay is $40 per day,",284.03,287.42,3.390000000000043,0.8562
+Payer,there is no deductible,288.85,290.38,1.5299999999999727,0.9999750000000001
+Payer,Services are payable at 100% of the allowed amount.,290.76,295.13,4.3700000000000045,0.8991033333333334
+Payer,The calendar year out of pocket for an individual is $4500,295.52,301.5,5.980000000000018,0.9996090909090909
+Payer,and includes copay,301.79,303.6,1.8100000000000023,0.9737333333333332
+Payer,and the lifetime maximum is unlimited.,305.5,308.38,2.8799999999999955,0.8570857142857143
+Payer,You will need to speak to a customer advocate for any accumulated information such as deductible or out of pocket maximum amounts met to date,308.57,317.51,8.939999999999998,0.996828
+Payer,"physical therapy,",318.4,319.88,1.4800000000000182,0.6666666666666666
+Payer,"habilitated physical therapy,",320.2,322.8,2.6000000000000227,0.75
+Payer,"there is no copay,",323.08,324.75,1.670000000000016,0.7985599999999999
+Payer,"There is an individual deductible of $2,500 per calendar year.",325.55,331.76,6.2099999999999795,0.9090818181818182
+Payer,Services are payable at 80% of the allowed amount,333.19,337.35,4.160000000000025,0.9991333333333334
+Payer,The calendar year out of pocket for an individual is $4500,337.75,343.74,5.990000000000009,0.9995999999999999
+Payer,"and includes copay,",344.03,345.91,1.8800000000000523,0.7281
+Payer,there is no maximum for this service,346.63,349.32,2.6899999999999977,1.0
+Payer,and the lifetime maximum is unlimited.,349.57,352.35,2.7800000000000296,0.8570857142857143
+Payer,"You will need to speak to a customer advocate for any accumulated information such as deductible or out of pocket, maximum amounts met to date",352.62,361.54,8.920000000000016,0.9591884615384617
+Payer,foot orthotics.,362.42,363.65,1.2299999999999613,0.5437333333333333
+Payer,"The Copay is $40 per day,",364.04,367.25,3.2099999999999795,0.8558571428571428
+Payer,there is no deductible,368.53,369.91,1.3800000000000523,0.99965
+Payer,"services are payable at 100% of the allowed amount,",370.33,374.56,4.230000000000018,0.8990966666666667
+Payer,The calendar year out of pocket for an individual is $4500,374.9,380.68,5.78000000000003,0.9996090909090909
+Payer,"and includes copay,",380.93,382.78,1.849999999999966,0.7311000000000001
+Payer,There is an individual maximum of two,383.42,386.25,2.829999999999984,0.9902142857142857
+Payer,units per calendar year,386.66,389.06,2.3999999999999773,0.9996750000000001
+Payer,and the lifetime maximum is unlimited.,390.61,393.37,2.759999999999991,0.8570857142857143
+Payer,"You will need to speak to a customer advocate for any accumulated information such as deductible or out of pocket, maximum amounts met to date.",393.62,402.5,8.879999999999995,0.923425925925926
+Payer,Acupuncture,404.3,405.58,1.2799999999999727,1.0
+Payer,"is not covered,",405.83,407.22,1.3900000000000432,0.75
+Payer,"vitamins, supports and pillows are not covered",407.83,411.32,3.490000000000009,0.8727875
+Payer,"claim must be filed on or before December 31 of the calendar year, following the year, in which the service was received",411.94,418.99,7.050000000000011,0.916475
+Payer,a covered service furnished in the last month of a particular year shall be considered to have been furnished in the suceed in calendar year Corporate standard.,419.36,428.46,9.099999999999966,0.9135071428571427
+Payer,Again the confirmation number is 1076873435.,430.58,440.34,9.759999999999991,0.8571428571428571
+Payer,Would you like me to fax this information to you?,441.2,444.04,2.840000000000032,0.9090636363636364
+Provider,customer service.,445.56,446.59,1.0299999999999727,0.6666666666666666
+Payer,Just a moment while I connect you with someone who can help you may experience a few seconds of silence.,448.27,453.24,4.970000000000027,0.9523809523809523
+Provider,Oh,453.84,454.58,0.7400000000000091,0.8074
+Payer,This call will be monitored and recorded for quality purposes.,454.47,457.67,3.1999999999999886,0.9090909090909091
+Payer,New online tools are available for retrieving the patient ID group number and member ID card image,492.64,501.6,8.960000000000036,0.9694411764705881
+Payer,visit the ability portal to use our new capabilities.,502.22,506.88,4.659999999999968,0.8977499999999999
+Payer,The view member ID card option is offered within the eligibility and benefits response on the ability portal. It allows you to view save or print the I. D. Card image.,539.85,553.96,14.110000000000014,0.8453914285714285
+Payer,The patient id finder allows you to alternately search for a patient ID and group number by using other patient specific data elements.,593.51,602.84,9.330000000000041,0.935025
+Payer,This tool is located in the payer spaces section within availability under our plan applications tab,603.3,611.17,7.8700000000000045,0.9263500000000002
+Payer,"if you are calling to verify transplant related benefits, please advise the customer advocate, you need to speak with a dedicated transplant agent",644.08,654.62,10.539999999999964,0.9174479999999999
+Payer,"to ensure you receive the appropriate level of benefits for transplant services in the I V. R phone system, choose the organ transplant benefit category.",655.15,665.74,10.590000000000032,0.8335071428571429
+Payer,"Our provider website has been designed with you in mind whether you're new to our network or an established user, select the provider tab to browse our online library of information and resources.",705.14,718.54,13.399999999999977,0.9371057142857144
+Payer,Watch the provider home page for the latest news and updates.,718.93,723.0,4.07000000000005,0.902125
+Payer,"Also refer to the education and reference section for provider tools, tip sheets, information on upcoming webinars for providers and more",723.22,733.88,10.659999999999968,0.9097000000000001
+Payer,visit us online today.,734.09,737.01,2.919999999999959,0.8
+Payer,Mm,769.88,771.4,1.5199999999999818,0.9338
+Payer,new online tools are available for retrieving the patient ID group number and member ID card image,812.61,820.62,8.009999999999991,0.9711999999999998
+Payer,visit the ability portal to use our new capabilities.,821.29,825.93,4.639999999999986,0.8977499999999999
+Payer,"The view member ID card option is offered within the eligibility and benefits response on the ability portal, it allows you to view save or print the I. D. Card image,",858.91,873.08,14.170000000000073,0.8460514285714287
+Payer,the patient ID finder allows you to alternately search for a patient ID and group number by using other patient specific data elements.,912.61,921.95,9.340000000000032,0.9335375
+Payer,This tool is located in the payer spaces section within availability under our plan applications tab,922.42,929.87,7.4500000000000455,0.9738500000000001
+Payer,"if you are calling to verify transplant related benefits, please advise the customer advocate. You need to speak with a dedicated transplant agent",969.42,979.03,9.610000000000014,0.917312
+Payer,"to ensure you receive the appropriate level of benefits for transplant services in the I. V. R phone system, choose the organ transplant benefit category.",979.56,990.4,10.840000000000032,0.8077448275862069
+Payer,"Our provider website has been designed with you in mind whether you're new to our network or an established user, select the provider tab to browse our online library of information and resources.",1023.33,1037.69,14.360000000000014,0.9371085714285714
+Payer,Watch the provider home page for the latest news and updates.,1038.01,1042.1,4.089999999999918,0.8990416666666666
+Payer,"Also refer to the education and reference section for provider tools, tip sheets, information on upcoming webinars for providers and more",1042.33,1052.94,10.610000000000127,0.9093130434782609
+Payer,visit us online today.,1053.17,1055.76,2.589999999999918,0.8
+Payer,Thank you for calling blue cross blue Shield. My name is chris who am I speaking with?,1095.39,1098.96,3.5699999999999363,0.8947368421052632
+Provider,my name is David. Hi uh 262377 24 100,1099.05,1111.97,12.920000000000073,0.8713783333333334
+Payer,"Hi David,",1101.13,1102.27,1.1399999999998727,0.6662666666666667
+Payer,can you confirm your call back number?,1103.85,1105.85,2.0,0.7797624999999999
+Provider,and actually,1112.65,1114.1,1.449999999999818,0.9978
+Payer,Alright thank you and give me just a moment.,1113.03,1116.77,3.740000000000009,0.8878600000000001
+Provider,no.,1115.04,1117.32,2.2799999999999727,0.37865
+Provider,Yeah,1118.38,1119.76,1.3799999999998818,0.4021
+Payer,Okay and can I get your tax ID,1125.82,1128.34,2.519999999999982,0.990425
+Provider,Yes it is 10 sorry 274,1128.4,1133.77,5.369999999999891,0.9684055555555555
+Provider,393391.,1134.49,1137.91,3.4200000000000728,0.49999166666666667
+Provider,Yeah.,1139.99,1140.52,0.5299999999999727,0.1525
+Payer,Okay. And what state are you calling from?,1143.25,1145.37,2.119999999999891,0.7996800000000001
+Provider,Wisconsin,1145.26,1146.6,1.3399999999999181,1.0
+Payer,Okay patient's name and date of birth.,1146.83,1149.41,2.5800000000001546,0.8652625
+Provider,Jane Doe 2 22 2001.,1149.7,1154.34,4.639999999999873,0.7909952380952381
+Provider,Okay.,1154.8,1155.52,0.7200000000000273,0.5
+Provider,Transfer,1158.72,1159.7,0.9800000000000182,0.6684
+Provider,5 3 to the office.,1167.63,1169.4,1.7699999999999818,0.8205166666666667
+Payer,Okay. Do we need codes or do we have codes for Jane?,1194.23,1198.83,4.599999999999909,0.8512714285714286
+Provider,Okay.,1196.6,1197.32,0.7200000000000273,0.5
+Provider,"Um no codes just uh mainly getting the deductible and out of pocket accumulations, everything else I think I got from the automated system beforehand.",1198.51,1208.84,10.329999999999927,0.9062444444444444
+Provider,Okay.,1209.19,1210.1,0.9099999999998545,0.5
+Provider,Yeah. Um chiropractic,1216.64,1222.05,5.4099999999998545,0.697425
+Payer,Is it a specialist office or what type of provider type?,1216.79,1220.63,3.8400000000001455,0.9162833333333333
+Provider,um I think usually we're considered a specialist,1222.41,1226.03,3.619999999999891,0.991975
+Provider,Okay.,1222.41,1223.24,0.8299999999999272,0.4809
+Provider,Yeah.,1226.95,1227.75,0.7999999999999545,0.5
+Provider,H. T. L.,1233.83,1241.89,8.060000000000173,0.4881166666666667
+Provider,"January four,",1242.14,1247.65,5.509999999999991,0.6662333333333333
+Provider,Okay.,1248.24,1255.78,7.539999999999964,0.31575
+Provider,Yes we are,1256.02,1262.83,6.809999999999945,0.9999666666666668
+Payer,Your network with your local blue cross blue shield?,1258.38,1261.57,3.189999999999827,0.8976900000000001
+Provider,Okay,1262.82,1263.61,0.7899999999999636,1.0
+Payer,thank you.,1263.94,1264.81,0.8699999999998909,0.6666333333333333
+Provider,okay.,1267.97,1268.51,0.5399999999999636,0.27145
+Provider,Okay. Um,1269.2,1272.1,2.8999999999998636,0.6538333333333334
+Provider,"Okay, perfect. Yeah um we can give you a call back at (415) 591 34 locations problem it is um",1272.56,1314.69,42.13000000000011,0.8492507575757577
+Payer,Is it a chiropractor group or just a chiropractor?,1310.58,1315.22,4.6400000000001,0.8988799999999999
+Provider,um I'm not sure what a chiropractor group is.,1315.1,1320.19,5.0900000000001455,0.8528400000000002
+Payer,Okay good. Did never mind,1320.26,1322.51,2.25,0.74575
+Payer,"in a way that answers my questions? Okay so so if you if you had a an office with five or six chiropractors in it, you know?",1323.48,1333.01,9.529999999999973,0.87437
+Provider,Okay.,1325.49,1326.69,1.2000000000000455,0.5
+Provider,Uh,1329.68,1330.6,0.9199999999998454,0.8581
+Provider,Oh understood. Okay,1332.44,1333.98,1.5399999999999636,0.7481500000000001
+Payer,Yeah. Yeah mm,1334.02,1336.4,2.380000000000109,0.64005
+Payer,"And you're not gonna have any kind of um physical therapy assistant or anything like that, are you",1374.13,1380.37,6.239999999999782,0.9433105263157896
+Provider,Wednesday.,1376.55,1377.85,1.2999999999999545,0.48325
+Provider,No,1380.58,1383.28,2.7000000000000455,0.5078
+Payer,okay so Jane is the main subscriber on this policy? It's a fully funded PPO PLUS policy with calendar year billing and then effective date of +41 2021. And so I just pulled the regular uh chiropractic benefits. Oh I see.,1420.76,1439.79,19.029999999999973,0.8891066666666665
+Provider,right,1435.78,1436.32,0.5399999999999636,0.881
+Provider,hold up.,1440.7,1441.6,0.8999999999998636,0.6431
+Payer,So this isn't show any user account. That's the problem huh?,1440.82,1445.49,4.670000000000073,0.7453846153846153
+Provider,Yeah I think I know on availability it was showing that like remaining for everything but I have run into this before um plans that like maybe right. Yeah and then you guys mainly have to,1445.71,1460.96,15.25,0.9717027027027028
+Provider,Yeah,1453.31,1454.36,1.0499999999999545,1.0
+Payer,and we have to pull them.,1456.53,1458.07,1.5399999999999636,0.8314285714285715
+Provider,um so I wasn't sure if that was the case again or,1461.46,1465.51,4.0499999999999545,0.9910916666666667
+Payer,"Yeah. Okay,",1461.75,1463.68,1.9300000000000637,0.4657
+Payer,yep that's okay sorry about that but it does take a minute or so it's it's um it's I'm sorry but it just takes me a while to get that stuff out of the accused.,1465.52,1477.39,11.870000000000118,0.9467944444444443
+Provider,Okay,1466.23,1467.66,1.4300000000000637,1.0
+Provider,"that's okay,",1469.27,1470.19,0.9200000000000728,0.6353666666666666
+Provider,that's fine.,1471.01,1472.1,1.0899999999999181,0.6655333333333333
+Provider,Yeah that's what I understand. That's okay.,1475.99,1479.1,3.1099999999999,0.7654333333333334
+Payer,Okay. Okay thanks,1478.29,1480.79,2.5,0.74995
+Payer,mm,1570.4,1571.24,0.8399999999999181,0.9774
+Payer,saying uh,1738.15,1740.29,2.1399999999998727,0.8801
+Provider,You might just want to put it on hold for him. It's only gonna be a few minutes.,1740.1,1744.57,4.470000000000027,0.8723400000000001
+Payer,for group number but,1741.96,1743.87,1.9099999999998545,0.993975
+Payer,hang on a second,1744.65,1746.28,1.6299999999998818,1.0
+Provider,Okay. Sounds good.,1745.68,1747.24,1.5599999999999454,0.58388
+Payer,let's look at this group number maybe it's the group number.,1752.5,1757.03,4.529999999999973,0.9104833333333334
+Provider,Okay.,1756.09,1756.67,0.5800000000001546,0.2485
+Payer,Alrighty,1766.7,1767.79,1.0899999999999181,0.9982
+Payer,mm,1793.55,1794.7,1.150000000000091,0.913
+Payer,"so I'm not sure what to say and I've been asking for help and I'm getting different advice but no matter which one of the emulators I pull up to try to get to their cube, it gives me this message that says no member record found for group number or member entered and I keep entering the same group number that's on the policy that's showing active and all the other systems and and so in.",2159.75,2185.97,26.2199999999998,0.9642088607594936
+Provider,Mhm.,2165.14,2165.89,0.75,0.4695
+Provider,Mhm.,2179.99,2180.83,0.8400000000001455,0.4663
+Payer,Yeah. Okay sorry so that's I'm just telling you why you're waiting. Do you need to put me on hold and grab something for yourself or take care of a patient?,2186.39,2194.25,7.860000000000127,0.8954235294117647
+Provider,Okay.,2187.64,2188.22,0.5799999999999272,0.48085
+Provider,"Um No I yeah no I am okay for now I've I've had this come up before um like two other times that I called, so I understand. Uh it takes a little bit. Um but that's okay.",2193.93,2205.46,11.5300000000002,0.8884000000000002
+Provider,Okay.,2197.56,2198.44,0.8800000000001091,0.5
+Provider,Okay.,2199.99,2200.76,0.7700000000004366,0.5
+Provider,Okay.,2202.09,2202.92,0.8299999999999272,0.4676
+Payer,Okay sorry about that. Okay but if you're a patient or a file or something that don't maybe don't grab the patient but um I understand um so I'm just doing what I can on my side and seeing if I can get any other assistance so,2204.62,2220.84,16.220000000000255,0.95830625
+Provider,That's okay.,2206.57,2207.63,1.0599999999999454,0.6354666666666667
+Provider,Mhm.,2211.88,2214.5,2.619999999999891,0.46635
+Provider,Yeah.,2219.19,2220.07,0.8800000000001091,0.3108
+Provider,Okay. Sounds great. Thank you. I appreciate it.,2220.34,2222.92,2.5799999999999272,0.6659583333333333
+Payer,yeah.,2370.47,2371.47,1.0,0.16625
+Provider,Mhm.,2376.62,2377.73,1.1100000000001273,0.1342
+Provider,Okay.,2411.05,2412.08,1.0299999999997453,0.1442
+Provider,Yeah.,2416.9,2418.38,1.4800000000000182,0.24625
+Provider,Yeah.,2451.81,2452.83,1.0199999999999818,0.1798
+Provider,Yeah.,2457.57,2459.07,1.5,0.24705
+Provider,Yeah.,2492.48,2493.42,0.9400000000000546,0.1326
+Provider,Yeah.,2498.24,2499.73,1.4900000000002365,0.19865
+Payer,Okay I'm on with them and and we're gonna pull the benefits again and she said it's possible that they don't have any accuse,2528.37,2535.47,7.099999999999909,0.9879291666666665
+Provider,Okay. That's um with my other thought. Okay,2530.98,2540.2,9.2199999999998,0.76324
+Payer,so so keep holding.,2536.85,2538.49,1.6399999999998727,0.8
+Payer,"Yeah, just hold on because I thought 41 was plenty old enough but maybe not so okay I'll be right back. Okay.",2538.88,2546.09,7.210000000000036,0.857722
+Provider,sure.,2540.76,2541.64,0.8799999999996544,0.5
+Provider,"Okay, thanks.",2545.47,2546.49,1.0199999999999818,0.5
+Provider,Yeah.,2579.11,2581.07,1.9600000000000364,0.1989
+Provider,Mhm.,2620.5,2621.62,1.1199999999998909,0.14795
+Provider,Yeah.,2660.74,2662.28,1.5400000000004184,0.14485
+Provider,Yeah.,2701.29,2702.95,1.6599999999998545,0.2021
+Payer,Okay. Are you there no.,2705.53,2707.77,2.2399999999997817,0.7068285714285715
+Provider,Yes I am. Mhmm.,2708.5,2715.02,6.519999999999982,0.6456166666666666
+Payer,"Okay good. Oh cool. Okay so the fact is they didn't they just haven't used their policy, she checked there's been no claims. And so they have so that they just haven't used any. And so whatever is remaining is the full amount of the deductibles and the out of pocket. Um did you need the maximums on the muscle manipulation is 30 days. Did you have that part?",2709.68,2732.14,22.460000000000036,0.8821753246753248
+Provider,Okay.,2717.33,2718.11,0.7800000000002001,0.48085
+Provider,Alright. You are all set. Have a nice day.,2719.9,2722.41,2.5099999999997635,0.7449833333333333
+Provider,"Sure,",2726.43,2727.0,0.5700000000001637,0.5
+Provider,"eligibility benefits. Yes, I did. Mhm, yep. Um Okay and then great, I think that was all um",2728.66,2738.83,10.170000000000073,0.7427874999999998
+Payer,Okay. Okay.,2733.69,2735.2,1.5099999999997635,0.498525
+Provider,"I need it then, so thank you for all your help and your time.",2739.16,2742.76,3.600000000000364,0.873225
+Payer,You're welcome. I'm so sorry. David about all the time.,2743.07,2746.5,3.4299999999998363,0.7586307692307692
+Provider,That's okay. That's okay. No no problem. Thanks.,2744.83,2749.17,4.3400000000001455,0.6662333333333333
+Payer,Okay. Okay. Thank you. And did you wanna call reference or no? No.,2746.9,2752.83,5.929999999999836,0.6971277777777778
+Provider,Mhm. Bye.,2749.39,2751.46,2.0700000000001637,0.463775
+Provider,Um I did get that from the automated one. so I should be okay. Thank you.,2752.03,2758.29,6.2599999999997635,0.8264052631578948
+Provider,Okay.,2755.69,2756.42,0.7300000000000182,0.4809
+Payer,Alrighty. Thank you. Have a good day.,2757.9,2759.79,1.8899999999998727,0.69782
+Provider,Bye. You too. Bye.,2759.04,2761.34,2.300000000000182,0.5706857142857142
