@@ -8,7 +8,7 @@ if __name__=="__main__":
     """
     You will see in the CSV file generated - "Participant" might have 
     N.A. this is the case, when no class label was found for the segment
-    in the items in channel_labels. These might need to manually
+    in the items in channel_labels. These might need to be manually
     assigned the label for "Participant"
     """
     csv_file_name_to_generate = "turns.csv"
